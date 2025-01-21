@@ -1,0 +1,10 @@
+{
+      "name": "reddit-to-sheet",
+      "version": "1.0.0",
+      "type": "module",
+      "dependencies": {
+        "google-spreadsheet": "^3.3.0",
+        "natural": "^5.2.3",
+        "node-fetch": "^2.6.7"
+      }
+    }
